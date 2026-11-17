@@ -20,7 +20,7 @@ The game contains three gamemodes, solo, versus, and infinite, each with a diffe
 <img src="Sprites/ForReadMe/Screenshot 2026-02-20 202645.png" width="400">
 
 
-## Other Info
+## Built With
 **Engine:** Godot 4.4.1
 
 **Language:** GDScript
